@@ -8,8 +8,10 @@ To get glider COM run the glidercom.py file.
 
 SIRS:
 
-Open SIRS.py
+Run SIRS.py in terminal
 
-modify main function inputs of p1, p2, p3. 
+You will be prompted for system size, N. This will create a system of N x N pixels.
 
-Run
+You will be prompted for initial conditions p1 (The number of susceptible individuals), p2 (The number of infectious individuals) & p3 (Number of recovered/ immune individuals.)
+
+Window will pop up with simulations
